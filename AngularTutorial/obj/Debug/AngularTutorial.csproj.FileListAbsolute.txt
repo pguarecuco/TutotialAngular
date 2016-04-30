@@ -127,4 +127,3 @@ C:\Users\Pedro\Documents\GitHub\TutotialAngular\AngularTutorial\obj\Debug\Angula
 C:\Users\Pedro\Documents\GitHub\TutotialAngular\AngularTutorial\obj\Debug\AngularTutorial.csproj.GenerateResource.Cache
 C:\Users\Pedro\Documents\GitHub\TutotialAngular\AngularTutorial\obj\Debug\AngularTutorial.dll
 C:\Users\Pedro\Documents\GitHub\TutotialAngular\AngularTutorial\obj\Debug\AngularTutorial.pdb
-C:\Users\Pedro\Documents\GitHub\TutotialAngular\AngularTutorial\obj\Debug\AngularTutorial.csprojResolveAssemblyReference.cache
